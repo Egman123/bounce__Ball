@@ -1,0 +1,14 @@
+
+body {
+  background: url('https://hips.hearstapps.com/hmg-prod/images/christmas-glowing-fireplace-hearth-tree-red-royalty-free-image-1629314866.jpg?crop=1xw:0.84296xh;center,top&resize=1200:*') no-repeat fixed ; 
+  background-size: cover;
+  margin: 0;
+  overflow: hidden;
+}
+
+
+.img {
+    background: none;
+}
+
+
